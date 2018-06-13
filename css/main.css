@@ -6,8 +6,9 @@ body {
 }
 
 .header, .bodyer {
-   width: 100%;
-   text-align: center;
+  margin: auto;
+  width: 100%;
+  text-align: center;
 }
 
 .footer {
@@ -21,8 +22,3 @@ body {
 h1 { font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
 
 a:visited, a:link { color: blue }
-
-hr {
-  size: 2;
-  color: black;
-}
