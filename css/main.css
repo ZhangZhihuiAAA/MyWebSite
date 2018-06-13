@@ -22,4 +22,7 @@ h1 { font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
 
 a:visited, a:link { color: blue }
 
-hr { color: black }
+hr {
+  size: 2;
+  color: black;
+}
