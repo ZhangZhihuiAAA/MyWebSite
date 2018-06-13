@@ -1,1 +1,32 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: green;
+  background-color: #d8da3d 
+}
 
+h1 { font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
+
+a:visited, a:link { color: blue; }
+
+a:hover { text-decoration: underline; }
+
+table.gridtable {
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
