@@ -1,12 +1,27 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: green;
-  background-color: #d8da3d 
+  background-color: #d8da3d;
+  padding: 2em;
+  padding-bottom: 5em
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+  height: 5em;
+  background: #6cf;
+}
+
+.div_1 { 
+  width: 95%;
+  padding: 1em 1em;
 }
 
 h1 { font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
 
-a:visited, a:link { color: blue; }
+a:visited, a:link { color: blue }
 
 a:hover { text-decoration: underline; }
 
