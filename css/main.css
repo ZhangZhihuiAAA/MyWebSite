@@ -5,6 +5,11 @@ body {
   padding-bottom: 50px
 }
 
+.header, .bodyer {
+   width: 100%;
+   text-align: center;
+}
+
 .footer {
    position: fixed;
    left: 0;
@@ -16,3 +21,5 @@ body {
 h1 { font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
 
 a:visited, a:link { color: blue }
+
+hr { color: black }
